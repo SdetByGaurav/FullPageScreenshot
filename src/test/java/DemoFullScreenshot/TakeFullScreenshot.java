@@ -37,7 +37,7 @@ public class TakeFullScreenshot {
 		System.out.println(msg);
 		
 		// capturing full page screenshot
-		Shutterbug.shootPage(driver, Capture.FULL, true).save("./FullPageScreenshot/");
+		Shutterbug.shootPage(driver, Capture.FULL, true).withName("IphoneResult").save("./FullPageScreenshot/");
 		
 		System.out.println("pass");
 		driver.quit();

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-17T08:53:29Z" name="Default suite" finished-at="2023-07-17T08:53:50Z" duration-ms="21255">
+  <suite started-at="2023-07-17T09:29:21Z" name="Default suite" finished-at="2023-07-17T09:29:56Z" duration-ms="34666">
     <groups>
     </groups>
-    <test started-at="2023-07-17T08:53:29Z" name="Default test" finished-at="2023-07-17T08:53:50Z" duration-ms="21255">
+    <test started-at="2023-07-17T09:29:21Z" name="Default test" finished-at="2023-07-17T09:29:56Z" duration-ms="34666">
       <class name="DemoFullScreenshot.TakeFullScreenshot">
-        <test-method signature="checkFullScreenshot()[pri:0, instance:DemoFullScreenshot.TakeFullScreenshot@37e4d7bb]" started-at="2023-07-17T08:53:29Z" name="checkFullScreenshot" finished-at="2023-07-17T08:53:50Z" duration-ms="21220" status="PASS">
+        <test-method signature="checkFullScreenshot()[pri:0, instance:DemoFullScreenshot.TakeFullScreenshot@3af0a9da]" started-at="2023-07-17T09:29:21Z" name="checkFullScreenshot" finished-at="2023-07-17T09:29:56Z" duration-ms="34636" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkFullScreenshot -->
